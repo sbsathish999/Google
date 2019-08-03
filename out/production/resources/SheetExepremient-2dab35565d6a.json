@@ -1,0 +1,14 @@
+{
+  "web" : {
+    "type": "service_account",
+    "project_id": "sheetexepremient",
+    "private_key_id": "2dab35565d6a8a93c2ca9afef97bb7ab688fa770",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC85eL0G/noMQ1a\nhgUBnNp63MGJvUOwYi7bK+YNR1dLWhYNCh2riuA+jnKPHl4XE4sZLL/P4TaHCi/i\no/HfdebQPylhBLZ84wAHIv6diXCxGLw6dPBGAKZbG8byrGecwJPt/yo7xhFRyAwA\nTA2tq34JmaRPb5d9rnT3+NoTK0W60MC5QEbyW1FalYb92A7nLvFyeH2lzKTOI6D9\nwKR5hseZlopNyzl6aCo4fVsxICxkWN2eLHgkgPnEYIjpXdvMlQ7t4oVeQkfGqsuP\ngDHXXwBqrEQnG3SZK5I6XFzCTnhEz258j/yIdMORtVhtWbPBau8VUx1o0/L8m9de\nF/paLak/AgMBAAECggEAGEfUbFxMOzRS6xfe/N4Ul0ZY+kOBt+Jm83UpFPvelKj3\nvKVYOvyW5nOY9hyJK54vewTtguMIB0Of9BnutTKKgKodv4LDkjn7fu9YmxdXjOwJ\nBdqSJ+1ddMiVQgw3JUb7vNPXsec7wq9cG42rFG++u60sGanWZylNj7JFFcGyLNj/\nkob1XtWrgzlZa99q1L5AUjJevEcFgRShxt0oQeQasRMCXIPm6tTRW04xoxG8m1VI\nALCC7OVrzkGDegzlRqtFyU8ee6Dv2NZ23DbmByjslCWJhCPdF6nmTFqsADS7b5pv\n4+r5demA0p8t6J7b/FS7WNjtOgU9mrDcfQb9qJnWgQKBgQD0kQ4kasHs+em3Vqza\nNjAYr3PayzrFB7rPIEYRH1tlNYGRJlc90O8hcBmvN53+5+knxoVqdcAGBubWIqbt\nlQdP8BKZHK8k6I6/kWK/ZcL1k6C6is+3EXXXmMQnej+wEuNI/jcFIPLvG8zNvYbO\nxOutXdn9602aXOESs0PNnf7hlwKBgQDFuph9R1MPgNuQSNCQOCJuQ4tLIWJpnjsH\nAEbRnloqj20em7b6fCPRGw/j2kmKsCmXg8MlGba4TvCHZLpax/KA26CFlAIiU9QY\nESVm1VGJGw2NsUiK2uLEaK0a8AcigINhG1ANA71ueFbmWOMLDvO38bDa16U7sgKD\nFyb+zHyamQKBgQCQkEnOxvg4rwUy5V4pYoyNmvCdrTHhE4+eLZKdPm7U5YrgFMzO\n8njXyB62juaqrcUJSPTGGDJYna3HeBY6K7R10Q/9R5JT+8+ddz/qqSlT5l7ExZbA\nvOZueZPBTiblWlTVacd2FaLkKgemudg80vQIt4hK6tMlYq98UVDL8w+dowKBgFfs\nT1511tNwAzI3jrZyn6zUUB5KbA53E9xbHSKc/Y8rU+RmbYkYpnyXQguZx1XqW7RK\nHP5kXsG6KG6sNcmkW4s9HjYHyKMnD4rcJPuDI8yJwQ8epBlKl8eqnD78OM/4wXLu\nyDvhS9zRmiK3p84FCg7jZDcL6SeQUlmkc+ydVVMRAoGBAL7OF67oHhoJgGJ8S35J\n3XY2+D01fjDuqhvK/iGZbD6Bb/O4V3pyFpPT1KctPcOyT2z2Gq2XptChoryir65Q\n8zWWrqSWRVaD7BwKdVkSdrjcSBiz4hZkdiIXOkHmqgO6PsHvK1XKB0UH6JiA50ir\nNxGmgpFmPIwyHTqTxach+/d1\n-----END PRIVATE KEY-----\n",
+    "client_email": "sheetexpremientdemo@sheetexepremient.iam.gserviceaccount.com",
+    "client_id": "115702667447266592386",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetexpremientdemo%40sheetexepremient.iam.gserviceaccount.com"
+  }
+}
